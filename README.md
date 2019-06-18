@@ -1,6 +1,7 @@
 # cal-stats
-Small script to compute stats of time events from ical exports
+
+Simple script to get some statistics of the time spent on each 'calendar' from a list of iCal calendars.
+
+[jump to notebook](ical-analysis.ipynb)
 
 
-## Useful Links
-- [Plotting pie-charts](https://medium.com/@kvnamipara/a-better-visualisation-of-pie-charts-by-matplotlib-935b7667d77f)
